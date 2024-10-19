@@ -1,0 +1,2 @@
+prediction_model/trained_models/*.pkl
+__pycache__/
